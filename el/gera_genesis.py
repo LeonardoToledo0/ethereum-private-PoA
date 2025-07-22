@@ -1,6 +1,6 @@
 import json
 
-signer = "c033d8fe60def4c136e658ee4431bf6c1d545b37"
+signer = "ENDEREÇO_DA_SUA_WALLET"
 
 extraData = "0x" + "00"*32 + signer + "00"*65
 
